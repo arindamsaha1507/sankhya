@@ -1,0 +1,79 @@
+title:
+  English: Sanskrit numerical tool
+  Samskritam: सङ्ख्याकारः
+
+subtitle:
+  English: A tool for converting numbers to Sanskrit words
+  Samskritam: "॥ सङ्ख्याशब्दपरिवर्तकोऽयम् ॥"
+
+instruction:
+  English: Enter a number
+  Samskritam: सङ्ख्यां लिख।
+
+button:
+  English: Convert
+  Samskritam: ॥परिवर्तय॥
+
+language:
+  English: Select Language
+  Samskritam: भाषां चिनु।
+
+script:
+  English: Select Script
+  Samskritam: लिपिं चिनु।
+
+joiner:
+  English: Select a joining word
+  Samskritam: योजकशब्दं चिनु।
+
+options:
+  English: Options
+  Samskritam: विकल्पाः
+
+script:
+  English: Script Options
+  Samskritam: लिप्यन्तराणि
+
+script_options:
+  English: Select Script
+  Samskritam: लिपिं चिनु।
+
+joiner:
+  English: Joiner Options
+  Samskritam: योजकशब्दाः
+
+joiner_uttara:
+  English: uttara
+  Samskritam: उत्तर
+
+joiner_adhika:
+  English: adhika
+  Samskritam: अधिक
+
+joiner_options:
+  English: Select Joiner
+  Samskritam: योजकशब्दं चिनु।
+
+helper:
+  English: For options, see the left sidebar. If it is hidden, click on the top left icon.
+  Samskritam: विकल्पान् वामपार्श्वपट्टिकायां पश्य। यदि गुप्ता तर्हि वामकोणे उपरिस्थं चिह्नं नुद।
+
+range:
+  English: Valid range
+  Samskritam: वैधपरिमाणम्
+
+error:
+  English: Please enter a valid number
+  Samskritam: कृपया वैधसङ्ख्यां लिख।
+
+input:
+  English: Do you want to enter large numbers?
+  Samskritam: अपि अतिवृहत्सङ्ख्याः लिखितुम् इष्यते।
+
+copy:
+  English: Copy
+  Samskritam: प्रतिलिपिं कुरु
+
+copied:
+  English: Copied!
+  Samskritam: प्रतिलिपिः अंशफलके स्थापितम्
